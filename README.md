@@ -71,7 +71,7 @@ Open the `res` folder to see all of the supported languages. `res/values` contai
 `res/values-ta`: Tamil<br>
 `res/values-th`: Thai<br>
 `res/values-tl`: Tagalog (Pilipino)<br>
-`res/values-tr`: Turkish<br>
+`res/values-tr`: Turkiye<br>
 `res/values-uk`: Ukrainian<br>
 `res/values-vi`: Vietnamese<br>
 `res/values-zh-rCN`: Chinese (Simplified)<br>
